@@ -1,0 +1,21 @@
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Luxurious+Roman&family=Montserrat:wght@400;600;700&family=Open+Sans:wght@300&family=Poppins:wght@400;500&display=swap');
+body{
+    font-family: 'Poppins', sans-serif;
+}
+.carousel-inner > .carousel-item > img {
+    
+    height:550px;
+}
+.banner-text{
+    color: #ffff;
+    font-size: 3em;
+
+}
+.banner-p{
+    color: #AEFEFF;
+}
+.carsol{
+    opacity: 0.7;
+    /* display: block;
+    background-color: rgba(218, 199, 152, 0.411); */
+}
